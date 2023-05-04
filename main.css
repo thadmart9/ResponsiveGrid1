@@ -36,6 +36,7 @@ img {
     margin-top: 2em;
     background-color: #F3F3F3;
     border: black 1px solid;
+    color: black;
 }
 
 @media screen and (max-width: 1060px) {
